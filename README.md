@@ -15,4 +15,4 @@ Basic Problem Solving
 
 This certification reflects my ability to write clean, efficient Python code and approach algorithmic challenges with clarity and logic.
 
-📄 Certificate: https://lnkd.in/efNyF9MR
+📄 Certificate: https://www.hackerrank.com/certificates/2f5c41f1cbde
